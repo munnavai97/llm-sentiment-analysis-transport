@@ -70,3 +70,43 @@ The goal is to analyze commuter feedback and classify:
   - `sentiment_label`
   - `primary_category`
   - contextual features
+ 
+
+##  Example Prediction
+
+**Input:**
+The bus was too crowded and I felt unsafe.
+
+**Output:**
+Sentiment: Negative
+Category: Safety
+
+
+---
+
+##  How to Run
+
+1. Open Google Colab
+2. Upload the dataset
+3. Run the notebook in `notebooks/`
+4. Train the model
+5. Evaluate results
+
+---
+
+##  Future Work
+
+- Improve model accuracy with more data
+- Use real survey data
+
+---
+
+## Author
+**Monirul Islam**  
+PhD Researcher (Transportation Engineering)  
+King Fahd University of Petroleum and Minerals
+
+---
+
+##  License
+This project is for academic and research purposes.
