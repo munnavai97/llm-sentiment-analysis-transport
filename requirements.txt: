@@ -1,0 +1,10 @@
+unsloth
+transformers
+datasets
+trl
+peft
+accelerate
+bitsandbytes
+scikit-learn
+pandas
+numpy
