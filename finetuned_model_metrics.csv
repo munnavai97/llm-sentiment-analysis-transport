@@ -1,0 +1,3 @@
+Task,Accuracy,Precision_weighted,Recall_weighted,F1_weighted,Valid_rows_used,Model
+Sentiment Classification,1,1,1,1,50,Fine-Tuned Model
+Issue Category Classification,0.14,0.0196,0.14,0.034385965,50,Fine-Tuned Model

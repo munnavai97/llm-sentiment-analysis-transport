@@ -1,0 +1,2151 @@
+response_id,comment_text,true_sentiment,pred_sentiment,true_category,pred_category,raw_generated_output,cleaned_generated_output
+342,There seemed to be more buses on the road than usual.,Positive,Positive,Availability,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: There seemed to be more buses on the road than usual.
+Age: 29
+Profession: Shopkeeper
+Time period: Morning Peak
+Crowding level: High
+Waiting time (minutes): 11
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Positive
+Category: Availability","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: There seemed to be more buses on the road than usual.
+Age: 29
+Profession: Shopkeeper
+Time period: Morning Peak
+Crowding level: High
+Waiting time (minutes): 11
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Positive
+Category: Availability"
+474,The fare is not the only issue—the unclear way they collect it creates arguments almost every day.,Negative,Negative,Cost,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: The fare is not the only issue—the unclear way they collect it creates arguments almost every day.
+Age: 37
+Profession: Driver
+Time period: Evening Peak
+Crowding level: Severe
+Waiting time (minutes): 61
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Cost","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: The fare is not the only issue—the unclear way they collect it creates arguments almost every day.
+Age: 37
+Profession: Driver
+Time period: Evening Peak
+Crowding level: Severe
+Waiting time (minutes): 61
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Cost"
+559,"I found a bus fairly quickly, even during the rush.",Positive,Positive,Availability,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: I found a bus fairly quickly, even during the rush.
+Age: 52
+Profession: Freelancer
+Time period: Morning Peak
+Crowding level: High
+Waiting time (minutes): 12
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Positive
+Category: Availability","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: I found a bus fairly quickly, even during the rush.
+Age: 52
+Profession: Freelancer
+Time period: Morning Peak
+Crowding level: High
+Waiting time (minutes): 12
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Positive
+Category: Availability"
+111,"The fare felt acceptable, though service quality could still improve.",Neutral,Neutral,Cost,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: The fare felt acceptable, though service quality could still improve.
+Age: 41
+Profession: Freelancer
+Time period: Evening Peak
+Crowding level: Severe
+Waiting time (minutes): 15
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Neutral
+Category: Cost","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: The fare felt acceptable, though service quality could still improve.
+Age: 41
+Profession: Freelancer
+Time period: Evening Peak
+Crowding level: Severe
+Waiting time (minutes): 15
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Neutral
+Category: Cost"
+792,"Compared with other days, today the cost felt reasonable.",Positive,Positive,Cost,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: Compared with other days, today the cost felt reasonable.
+Age: 18
+Profession: Driver
+Time period: Morning Peak
+Crowding level: Moderate
+Waiting time (minutes): 10
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Positive
+Category: Cost","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: Compared with other days, today the cost felt reasonable.
+Age: 18
+Profession: Driver
+Time period: Morning Peak
+Crowding level: Moderate
+Waiting time (minutes): 10
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Positive
+Category: Cost"
+934,"The ride was tiring, but about what I normally expect from a local bus.",Neutral,Neutral,Comfort,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: The ride was tiring, but about what I normally expect from a local bus.
+Age: 38
+Profession: Freelancer
+Time period: Evening Peak
+Crowding level: High
+Waiting time (minutes): 9
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Neutral
+Category: Comfort","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: The ride was tiring, but about what I normally expect from a local bus.
+Age: 38
+Profession: Freelancer
+Time period: Evening Peak
+Crowding level: High
+Waiting time (minutes): 9
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Neutral
+Category: Comfort"
+386,Even a small sign or proper announcement could have made this trip easier.,Negative,Negative,Information,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: Even a small sign or proper announcement could have made this trip easier.
+Age: 49
+Profession: Teacher
+Time period: Morning Peak
+Crowding level: Low
+Waiting time (minutes): 24
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Information","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: Even a small sign or proper announcement could have made this trip easier.
+Age: 49
+Profession: Teacher
+Time period: Morning Peak
+Crowding level: Low
+Waiting time (minutes): 24
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Information"
+1435,"Traffic slowed the trip, but overall it was average.",Neutral,Neutral,Delay,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: Traffic slowed the trip, but overall it was average.
+Age: 40
+Profession: Freelancer
+Time period: Morning Peak
+Crowding level: Severe
+Waiting time (minutes): 17
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Neutral
+Category: Delay","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: Traffic slowed the trip, but overall it was average.
+Age: 40
+Profession: Freelancer
+Time period: Morning Peak
+Crowding level: Severe
+Waiting time (minutes): 17
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Neutral
+Category: Delay"
+170,Communication from the conductor was average today.,Neutral,Neutral,Staff Behavior,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: Communication from the conductor was average today.
+Age: 39
+Profession: Banker
+Time period: Evening Peak
+Crowding level: Severe
+Waiting time (minutes): 20
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Neutral
+Category: Staff Behavior","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: Communication from the conductor was average today.
+Age: 39
+Profession: Banker
+Time period: Evening Peak
+Crowding level: Severe
+Waiting time (minutes): 20
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Neutral
+Category: Staff Behavior"
+951,There seemed to be more buses on the road than usual.,Positive,Positive,Availability,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: There seemed to be more buses on the road than usual.
+Age: 33
+Profession: Homemaker
+Time period: Evening Peak
+Crowding level: High
+Waiting time (minutes): 4
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Positive
+Category: Availability","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: There seemed to be more buses on the road than usual.
+Age: 33
+Profession: Homemaker
+Time period: Evening Peak
+Crowding level: High
+Waiting time (minutes): 4
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Positive
+Category: Availability"
+1279,I would say the cost was average for this route.,Neutral,Neutral,Cost,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: I would say the cost was average for this route.
+Age: 36
+Profession: Healthcare Worker
+Time period: Evening Peak
+Crowding level: Severe
+Waiting time (minutes): 18
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Neutral
+Category: Cost","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: I would say the cost was average for this route.
+Age: 36
+Profession: Healthcare Worker
+Time period: Evening Peak
+Crowding level: Severe
+Waiting time (minutes): 18
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Neutral
+Category: Cost"
+1017,Route information was just about manageable.,Neutral,Neutral,Information,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: Route information was just about manageable.
+Age: 39
+Profession: Small Business
+Time period: Evening Peak
+Crowding level: Severe
+Waiting time (minutes): 14
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Neutral
+Category: Information","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: Route information was just about manageable.
+Age: 39
+Profession: Small Business
+Time period: Evening Peak
+Crowding level: Severe
+Waiting time (minutes): 14
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Neutral
+Category: Information"
+589,Service frequency was neither very good nor very bad.,Neutral,Neutral,Availability,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: Service frequency was neither very good nor very bad.
+Age: 26
+Profession: Freelancer
+Time period: Morning Peak
+Crowding level: High
+Waiting time (minutes): 11
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Neutral
+Category: Availability","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: Service frequency was neither very good nor very bad.
+Age: 26
+Profession: Freelancer
+Time period: Morning Peak
+Crowding level: High
+Waiting time (minutes): 11
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Neutral
+Category: Availability"
+1431,The conductor spoke politely and guided passengers clearly.,Positive,Positive,Staff Behavior,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: The conductor spoke politely and guided passengers clearly.
+Age: 30
+Profession: Student
+Time period: Morning Peak
+Crowding level: Severe
+Waiting time (minutes): 8
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Positive
+Category: Staff Behavior","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: The conductor spoke politely and guided passengers clearly.
+Age: 30
+Profession: Student
+Time period: Morning Peak
+Crowding level: Severe
+Waiting time (minutes): 8
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Positive
+Category: Staff Behavior"
+799,"From Jatrabari to Badda, the delay was frustrating. I left early but still got late because the bus service was irregular.",Negative,Negative,Delay,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: From Jatrabari to Badda, the delay was frustrating. I left early but still got late because the bus service was irregular.
+Age: 29
+Profession: Banker
+Time period: Morning Peak
+Crowding level: Severe
+Waiting time (minutes): 35
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Delay","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: From Jatrabari to Badda, the delay was frustrating. I left early but still got late because the bus service was irregular.
+Age: 29
+Profession: Banker
+Time period: Morning Peak
+Crowding level: Severe
+Waiting time (minutes): 35
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Delay"
+1249,"Peak time e bus kom thake, tai sobai ekta bus er upor chap pore jay.",Negative,Negative,Availability,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: Peak time e bus kom thake, tai sobai ekta bus er upor chap pore jay.
+Age: 35
+Profession: Small Business
+Time period: Evening Peak
+Crowding level: High
+Waiting time (minutes): 41
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Availability","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: Peak time e bus kom thake, tai sobai ekta bus er upor chap pore jay.
+Age: 35
+Profession: Small Business
+Time period: Evening Peak
+Crowding level: High
+Waiting time (minutes): 41
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Availability"
+253,Clear route and stop information would save passengers a lot of confusion.,Negative,Negative,Information,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: Clear route and stop information would save passengers a lot of confusion.
+Age: 38
+Profession: Office Employee
+Time period: Morning Peak
+Crowding level: Severe
+Waiting time (minutes): 29
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Information","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: Clear route and stop information would save passengers a lot of confusion.
+Age: 38
+Profession: Office Employee
+Time period: Morning Peak
+Crowding level: Severe
+Waiting time (minutes): 29
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Information"
+1228,"I was standing at Kuril for almost 22 minutes and still no bus came on time. For a weekday peak hour, this is exhausting.",Negative,Negative,Delay,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: I was standing at Kuril for almost 22 minutes and still no bus came on time. For a weekday peak hour, this is exhausting.
+Age: 58
+Profession: Student
+Time period: Evening Peak
+Crowding level: Severe
+Waiting time (minutes): 29
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Delay","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: I was standing at Kuril for almost 22 minutes and still no bus came on time. For a weekday peak hour, this is exhausting.
+Age: 58
+Profession: Student
+Time period: Evening Peak
+Crowding level: Severe
+Waiting time (minutes): 29
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Delay"
+937,"The ride felt somewhat crowded, but I did not face any major safety issue.",Neutral,Neutral,Safety,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: The ride felt somewhat crowded, but I did not face any major safety issue.
+Age: 29
+Profession: Shopkeeper
+Time period: Evening Peak
+Crowding level: Low
+Waiting time (minutes): 8
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Neutral
+Category: Safety","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: The ride felt somewhat crowded, but I did not face any major safety issue.
+Age: 29
+Profession: Shopkeeper
+Time period: Evening Peak
+Crowding level: Low
+Waiting time (minutes): 8
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Neutral
+Category: Safety"
+1270,The seat condition was poor and there was no real comfort during the trip.,Negative,Negative,Comfort,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: The seat condition was poor and there was no real comfort during the trip.
+Age: 40
+Profession: Small Business
+Time period: Evening Peak
+Crowding level: Moderate
+Waiting time (minutes): 33
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Comfort","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: The seat condition was poor and there was no real comfort during the trip.
+Age: 40
+Profession: Small Business
+Time period: Evening Peak
+Crowding level: Moderate
+Waiting time (minutes): 33
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Comfort"
+868,Getting on the bus was difficult because it barely stopped near the designated stop.,Negative,Negative,Accessibility,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: Getting on the bus was difficult because it barely stopped near the designated stop.
+Age: 52
+Profession: Student
+Time period: Morning Peak
+Crowding level: High
+Waiting time (minutes): 41
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Accessibility","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: Getting on the bus was difficult because it barely stopped near the designated stop.
+Age: 52
+Profession: Student
+Time period: Morning Peak
+Crowding level: High
+Waiting time (minutes): 41
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Accessibility"
+220,Bus e emon bhir chilo je neme jabar agei chinta hoye jacchilo kivabe gate porjonto jabo.,Negative,Negative,Crowding,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: Bus e emon bhir chilo je neme jabar agei chinta hoye jacchilo kivabe gate porjonto jabo.
+Age: 36
+Profession: Banker
+Time period: Morning Peak
+Crowding level: Moderate
+Waiting time (minutes): 29
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Crowding","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: Bus e emon bhir chilo je neme jabar agei chinta hoye jacchilo kivabe gate porjonto jabo.
+Age: 36
+Profession: Banker
+Time period: Morning Peak
+Crowding level: Moderate
+Waiting time (minutes): 29
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Crowding"
+1192,"There were buses on the route, but not enough to reduce waiting fully.",Neutral,Neutral,Availability,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: There were buses on the route, but not enough to reduce waiting fully.
+Age: 57
+Profession: Job Seeker
+Time period: Morning Peak
+Crowding level: Severe
+Waiting time (minutes): 12
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Neutral
+Category: Availability","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: There were buses on the route, but not enough to reduce waiting fully.
+Age: 57
+Profession: Job Seeker
+Time period: Morning Peak
+Crowding level: Severe
+Waiting time (minutes): 12
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Neutral
+Category: Availability"
+452,"The local bus showed up very late today. By the time I reached my campus, I was already behind schedule.",Negative,Negative,Delay,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: The local bus showed up very late today. By the time I reached my campus, I was already behind schedule.
+Age: 46
+Profession: Banker
+Time period: Evening Peak
+Crowding level: Low
+Waiting time (minutes): 65
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Delay","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: The local bus showed up very late today. By the time I reached my campus, I was already behind schedule.
+Age: 46
+Profession: Banker
+Time period: Evening Peak
+Crowding level: Low
+Waiting time (minutes): 65
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Delay"
+428,Getting on and off was smoother than usual.,Positive,Positive,Accessibility,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: Getting on and off was smoother than usual.
+Age: 28
+Profession: Homemaker
+Time period: Morning Peak
+Crowding level: High
+Waiting time (minutes): 7
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Positive
+Category: Accessibility","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: Getting on and off was smoother than usual.
+Age: 28
+Profession: Homemaker
+Time period: Morning Peak
+Crowding level: High
+Waiting time (minutes): 7
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Positive
+Category: Accessibility"
+927,I had to ask three people before confirming whether this bus was going my way.,Negative,Negative,Information,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: I had to ask three people before confirming whether this bus was going my way.
+Age: 47
+Profession: Homemaker
+Time period: Evening Peak
+Crowding level: High
+Waiting time (minutes): 19
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Information","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: I had to ask three people before confirming whether this bus was going my way.
+Age: 47
+Profession: Homemaker
+Time period: Evening Peak
+Crowding level: High
+Waiting time (minutes): 19
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Information"
+107,I felt comparatively secure throughout the journey.,Positive,Positive,Safety,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: I felt comparatively secure throughout the journey.
+Age: 45
+Profession: Healthcare Worker
+Time period: Evening Peak
+Crowding level: High
+Waiting time (minutes): 8
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Positive
+Category: Safety","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: I felt comparatively secure throughout the journey.
+Age: 45
+Profession: Healthcare Worker
+Time period: Evening Peak
+Crowding level: High
+Waiting time (minutes): 8
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Positive
+Category: Safety"
+1161,"A bus came after some waiting, so availability was average today.",Neutral,Neutral,Availability,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: A bus came after some waiting, so availability was average today.
+Age: 30
+Profession: Freelancer
+Time period: Morning Peak
+Crowding level: High
+Waiting time (minutes): 9
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Neutral
+Category: Availability","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: A bus came after some waiting, so availability was average today.
+Age: 30
+Profession: Freelancer
+Time period: Morning Peak
+Crowding level: High
+Waiting time (minutes): 9
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Neutral
+Category: Availability"
+816,"Compared with other days, today the cost felt reasonable.",Positive,Positive,Cost,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: Compared with other days, today the cost felt reasonable.
+Age: 21
+Profession: Shopkeeper
+Time period: Evening Peak
+Crowding level: Moderate
+Waiting time (minutes): 11
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Positive
+Category: Cost","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: Compared with other days, today the cost felt reasonable.
+Age: 21
+Profession: Shopkeeper
+Time period: Evening Peak
+Crowding level: Moderate
+Waiting time (minutes): 11
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Positive
+Category: Cost"
+537,The seat condition was poor and there was no real comfort during the trip.,Negative,Negative,Comfort,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: The seat condition was poor and there was no real comfort during the trip.
+Age: 43
+Profession: Homemaker
+Time period: Evening Peak
+Crowding level: High
+Waiting time (minutes): 50
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Comfort","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: The seat condition was poor and there was no real comfort during the trip.
+Age: 43
+Profession: Homemaker
+Time period: Evening Peak
+Crowding level: High
+Waiting time (minutes): 50
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Comfort"
+1194,"Same problem again—long wait, slow movement, and too many unnecessary stops. Morning peak in Dhaka feels impossible sometimes.",Negative,Negative,Delay,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: Same problem again—long wait, slow movement, and too many unnecessary stops. Morning peak in Dhaka feels impossible sometimes.
+Age: 47
+Profession: Student
+Time period: Morning Peak
+Crowding level: High
+Waiting time (minutes): 27
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Delay","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: Same problem again—long wait, slow movement, and too many unnecessary stops. Morning peak in Dhaka feels impossible sometimes.
+Age: 47
+Profession: Student
+Time period: Morning Peak
+Crowding level: High
+Waiting time (minutes): 27
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Delay"
+1042,The bus stopped properly and boarding was easier today.,Positive,Positive,Accessibility,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: The bus stopped properly and boarding was easier today.
+Age: 24
+Profession: Freelancer
+Time period: Morning Peak
+Crowding level: High
+Waiting time (minutes): 7
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Positive
+Category: Accessibility","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: The bus stopped properly and boarding was easier today.
+Age: 24
+Profession: Freelancer
+Time period: Morning Peak
+Crowding level: High
+Waiting time (minutes): 7
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Positive
+Category: Accessibility"
+47,Accessibility er dike khub kom attention ache. Peak hour e nama-utha duitae kosto.,Negative,Negative,Accessibility,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: Accessibility er dike khub kom attention ache. Peak hour e nama-utha duitae kosto.
+Age: 52
+Profession: Job Seeker
+Time period: Evening Peak
+Crowding level: Severe
+Waiting time (minutes): 53
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Accessibility","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: Accessibility er dike khub kom attention ache. Peak hour e nama-utha duitae kosto.
+Age: 52
+Profession: Job Seeker
+Time period: Evening Peak
+Crowding level: Severe
+Waiting time (minutes): 53
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Accessibility"
+788,Staff behavior was okay overall.,Neutral,Neutral,Staff Behavior,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: Staff behavior was okay overall.
+Age: 47
+Profession: Office Employee
+Time period: Morning Peak
+Crowding level: High
+Waiting time (minutes): 10
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Neutral
+Category: Staff Behavior","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: Staff behavior was okay overall.
+Age: 47
+Profession: Office Employee
+Time period: Morning Peak
+Crowding level: High
+Waiting time (minutes): 10
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Neutral
+Category: Staff Behavior"
+16,The seat condition was poor and there was no real comfort during the trip.,Negative,Negative,Comfort,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: The seat condition was poor and there was no real comfort during the trip.
+Age: 38
+Profession: Office Employee
+Time period: Morning Peak
+Crowding level: Moderate
+Waiting time (minutes): 34
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Comfort","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: The seat condition was poor and there was no real comfort during the trip.
+Age: 38
+Profession: Office Employee
+Time period: Morning Peak
+Crowding level: Moderate
+Waiting time (minutes): 34
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Comfort"
+1346,"People were pushing near the gate while boarding, and it felt risky, especially for women and older passengers.",Negative,Negative,Safety,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: People were pushing near the gate while boarding, and it felt risky, especially for women and older passengers.
+Age: 40
+Profession: Job Seeker
+Time period: Evening Peak
+Crowding level: High
+Waiting time (minutes): 31
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Safety","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: People were pushing near the gate while boarding, and it felt risky, especially for women and older passengers.
+Age: 40
+Profession: Job Seeker
+Time period: Evening Peak
+Crowding level: High
+Waiting time (minutes): 31
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Safety"
+620,Service frequency was neither very good nor very bad.,Neutral,Neutral,Availability,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: Service frequency was neither very good nor very bad.
+Age: 35
+Profession: Driver
+Time period: Morning Peak
+Crowding level: Severe
+Waiting time (minutes): 14
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Neutral
+Category: Availability","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: Service frequency was neither very good nor very bad.
+Age: 35
+Profession: Driver
+Time period: Morning Peak
+Crowding level: Severe
+Waiting time (minutes): 14
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Neutral
+Category: Availability"
+60,"The footpath near the stop was crowded and broken, so reaching the bus safely was not easy.",Negative,Negative,Accessibility,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: The footpath near the stop was crowded and broken, so reaching the bus safely was not easy.
+Age: 45
+Profession: Freelancer
+Time period: Evening Peak
+Crowding level: High
+Waiting time (minutes): 24
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Accessibility","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: The footpath near the stop was crowded and broken, so reaching the bus safely was not easy.
+Age: 45
+Profession: Freelancer
+Time period: Evening Peak
+Crowding level: High
+Waiting time (minutes): 24
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Accessibility"
+4,The fare felt fair enough for the distance I traveled.,Positive,Positive,Cost,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: The fare felt fair enough for the distance I traveled.
+Age: 21
+Profession: Shopkeeper
+Time period: Morning Peak
+Crowding level: Severe
+Waiting time (minutes): 11
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Positive
+Category: Cost","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: The fare felt fair enough for the distance I traveled.
+Age: 21
+Profession: Shopkeeper
+Time period: Morning Peak
+Crowding level: Severe
+Waiting time (minutes): 11
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Positive
+Category: Cost"
+962,"Everyone was squeezed together, and even moving one step inside felt impossible.",Negative,Negative,Crowding,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: Everyone was squeezed together, and even moving one step inside felt impossible.
+Age: 55
+Profession: Shopkeeper
+Time period: Morning Peak
+Crowding level: High
+Waiting time (minutes): 35
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Crowding","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: Everyone was squeezed together, and even moving one step inside felt impossible.
+Age: 55
+Profession: Shopkeeper
+Time period: Morning Peak
+Crowding level: High
+Waiting time (minutes): 35
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Crowding"
+1203,"The ride was jerky, noisy, and uncomfortable, especially while standing.",Negative,Negative,Comfort,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: The ride was jerky, noisy, and uncomfortable, especially while standing.
+Age: 50
+Profession: Banker
+Time period: Morning Peak
+Crowding level: Moderate
+Waiting time (minutes): 20
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Comfort","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: The ride was jerky, noisy, and uncomfortable, especially while standing.
+Age: 50
+Profession: Banker
+Time period: Morning Peak
+Crowding level: Moderate
+Waiting time (minutes): 20
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Comfort"
+1291,Helper er kotha bolar dhoron bhalo chilo na. Choto proshno korleo kharap bhabe jawab dicchilo.,Negative,Negative,Staff Behavior,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: Helper er kotha bolar dhoron bhalo chilo na. Choto proshno korleo kharap bhabe jawab dicchilo.
+Age: 24
+Profession: Shopkeeper
+Time period: Morning Peak
+Crowding level: Severe
+Waiting time (minutes): 44
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Staff Behavior","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: Helper er kotha bolar dhoron bhalo chilo na. Choto proshno korleo kharap bhabe jawab dicchilo.
+Age: 24
+Profession: Shopkeeper
+Time period: Morning Peak
+Crowding level: Severe
+Waiting time (minutes): 44
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Staff Behavior"
+1467,Staff behavior was okay overall.,Neutral,Neutral,Staff Behavior,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: Staff behavior was okay overall.
+Age: 58
+Profession: Banker
+Time period: Morning Peak
+Crowding level: Severe
+Waiting time (minutes): 20
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Neutral
+Category: Staff Behavior","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: Staff behavior was okay overall.
+Age: 58
+Profession: Banker
+Time period: Morning Peak
+Crowding level: Severe
+Waiting time (minutes): 20
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Neutral
+Category: Staff Behavior"
+924,The bus was so full that I had to stand bent near the gate for almost the whole trip.,Negative,Negative,Crowding,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: The bus was so full that I had to stand bent near the gate for almost the whole trip.
+Age: 32
+Profession: Banker
+Time period: Morning Peak
+Crowding level: High
+Waiting time (minutes): 59
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Crowding","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: The bus was so full that I had to stand bent near the gate for almost the whole trip.
+Age: 32
+Profession: Banker
+Time period: Morning Peak
+Crowding level: High
+Waiting time (minutes): 59
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Crowding"
+1204,The information given by staff was helpful and saved time.,Positive,Positive,Information,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: The information given by staff was helpful and saved time.
+Age: 26
+Profession: Factory Worker
+Time period: Evening Peak
+Crowding level: Severe
+Waiting time (minutes): 8
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Positive
+Category: Information","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: The information given by staff was helpful and saved time.
+Age: 26
+Profession: Factory Worker
+Time period: Evening Peak
+Crowding level: Severe
+Waiting time (minutes): 8
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Positive
+Category: Information"
+686,"It was a typical weekday trip, neither smooth nor terrible.",Neutral,Neutral,Comfort,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: It was a typical weekday trip, neither smooth nor terrible.
+Age: 35
+Profession: Shopkeeper
+Time period: Morning Peak
+Crowding level: Severe
+Waiting time (minutes): 16
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Neutral
+Category: Comfort","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: It was a typical weekday trip, neither smooth nor terrible.
+Age: 35
+Profession: Shopkeeper
+Time period: Morning Peak
+Crowding level: Severe
+Waiting time (minutes): 16
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Neutral
+Category: Comfort"
+65,Aajke bus er jonno eto wait korte holo je matha noshto hoye gelo. Peak hour e regular service thakar kotha.,Negative,Negative,Delay,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: Aajke bus er jonno eto wait korte holo je matha noshto hoye gelo. Peak hour e regular service thakar kotha.
+Age: 49
+Profession: Freelancer
+Time period: Morning Peak
+Crowding level: High
+Waiting time (minutes): 52
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Delay","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: Aajke bus er jonno eto wait korte holo je matha noshto hoye gelo. Peak hour e regular service thakar kotha.
+Age: 49
+Profession: Freelancer
+Time period: Morning Peak
+Crowding level: High
+Waiting time (minutes): 52
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Delay"
+234,"The bus came sooner than I expected, which almost never happens during peak hour.",Positive,Positive,Delay,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: The bus came sooner than I expected, which almost never happens during peak hour.
+Age: 21
+Profession: Teacher
+Time period: Morning Peak
+Crowding level: High
+Waiting time (minutes): 4
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Positive
+Category: Delay","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: The bus came sooner than I expected, which almost never happens during peak hour.
+Age: 21
+Profession: Teacher
+Time period: Morning Peak
+Crowding level: High
+Waiting time (minutes): 4
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Positive
+Category: Delay"
+1378,Helper er kotha bolar dhoron bhalo chilo na. Choto proshno korleo kharap bhabe jawab dicchilo.,Negative,Negative,Staff Behavior,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: Helper er kotha bolar dhoron bhalo chilo na. Choto proshno korleo kharap bhabe jawab dicchilo.
+Age: 30
+Profession: Teacher
+Time period: Evening Peak
+Crowding level: Severe
+Waiting time (minutes): 59
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Staff Behavior","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: Helper er kotha bolar dhoron bhalo chilo na. Choto proshno korleo kharap bhabe jawab dicchilo.
+Age: 30
+Profession: Teacher
+Time period: Evening Peak
+Crowding level: Severe
+Waiting time (minutes): 59
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Staff Behavior"
+753,This route is hard for elderly passengers. Even healthy people struggle to board during peak hours.,Negative,Negative,Accessibility,Delay,"system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: This route is hard for elderly passengers. Even healthy people struggle to board during peak hours.
+Age: 27
+Profession: Homemaker
+Time period: Evening Peak
+Crowding level: Moderate
+Waiting time (minutes): 50
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Accessibility","system
+
+Cutting Knowledge Date: December 2023
+Today Date: 09 Apr 2026
+
+You are a transport sentiment analysis assistant specialized in Dhaka local bus commuter feedback.user
+
+Analyze the following Dhaka local bus commuter feedback.
+
+Comment: This route is hard for elderly passengers. Even healthy people struggle to board during peak hours.
+Age: 27
+Profession: Homemaker
+Time period: Evening Peak
+Crowding level: Moderate
+Waiting time (minutes): 50
+
+Return the result exactly in this format:
+Sentiment: <Positive/Neutral/Negative>
+Category: <Delay/Safety/Cleanliness/Cost/Accessibility/Availability/Crowding/Staff Behavior/Comfort/Information>assistant
+
+Sentiment: Negative
+Category: Accessibility"
